@@ -19,6 +19,9 @@ experiments/
 # Claude Code
 .claude/
 
+# Open3D (auto-generated render option snapshots)
+RenderOption_*.json
+
 # OS
 .DS_Store
 Thumbs.db
